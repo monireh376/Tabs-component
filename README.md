@@ -1,3 +1,9 @@
+# Tab Cpmponent Project
+This project is developped by ReactJs , and the view of projet exists in the following photo.
+
+you can click on every tab to change the content.
+<img src="./public/Untitled.png" />
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
