@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <h1>Tabs Componnent with React</h1>
+    <h1 style={{paddingLeft:"10px"}}>Tabs Componnent with React</h1>
   )
 }
 
